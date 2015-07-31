@@ -1,0 +1,4 @@
+Make full model-gears, wheels, everythin
+
+Edit body so that the gears don't intersect w/ the floor. Move axleholders and motorholders down. 
+Also need to make the gears longer-center distance=diameter, not radius

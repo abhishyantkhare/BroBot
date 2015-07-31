@@ -1,0 +1,5 @@
+Yellow = front
+Blue= bottom
+
+distance between motor axle and wheel axle: 38.173 mm-back
+37.845-front
